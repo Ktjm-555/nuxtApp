@@ -1,7 +1,7 @@
 <template>
   <div>
     <NuxtWelcome />
-    <p>あああ</p>
+    <p>あああいいい</p>
      <div>
      </div>
   </div>
