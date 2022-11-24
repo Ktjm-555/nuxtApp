@@ -6,6 +6,5 @@
     </p>
      <div>
      </div>
-     test
   </div>
 </template>
