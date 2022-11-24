@@ -1,6 +1,8 @@
 <template>
   <div>
     <NuxtWelcome />
-    <p>あああ</p>
+    <p>あああii
+      
+    </p>
   </div>
 </template>
